@@ -5,7 +5,7 @@ This is my EFI file on my Dell 14 5447.
 
 Originally, I have linux (Deepin) and windows (10) on my machine booting with grub2.
 
-Recently, I install hackintosh (Mojave 10.14.5) and add Clover to boot them three, although not perfectly, I've made several changes after forking Clover repo from [SinhLv](https://github.com/SinhLv/Dell-Ins-14-5447-hackintosh) which is marked by *.
+Recently, I install hackintosh (Mojave 10.14.5) and add Clover to boot them three, although not perfectly, I've made several changes after forking Clover repo from [SinhLv](https://github.com/SinhLv/Dell-Ins-14-5447-hackintosh) which are marked by *.
 
 ##### Specs: #####
 

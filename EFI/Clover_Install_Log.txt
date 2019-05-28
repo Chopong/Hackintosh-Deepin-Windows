@@ -1,0 +1,48 @@
+
+Clover EFI installer log - Sun May 26 04:34:40 CST 2019
+Installer version: v2.4k r4934 EFI bootloader
+======================================================
+/dev/disk0 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *240.1 GB   disk0
+   1:                        EFI                         1.1 GB     disk0s1
+   2:         Microsoft Reserved                         134.2 MB   disk0s2
+   3:           Linux Filesystem                         2.1 GB     disk0s3
+   4:           Linux Filesystem                         53.7 GB    disk0s4
+   5:           Linux Filesystem                         53.7 GB    disk0s5
+   6:                 Linux Swap                         10.7 GB    disk0s6
+   7:       Microsoft Basic Data SHARE                   11.2 GB    disk0s7
+   8:       Microsoft Basic Data                         52.8 GB    disk0s8
+   9:           Windows Recovery                         867.2 MB   disk0s9
+  10:                 Apple_APFS Container disk1         53.7 GB    disk0s10
+
+/dev/disk1 (synthesized):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      APFS Container Scheme -                      +53.7 GB    disk1
+                                 Physical Store disk0s10
+   1:                APFS Volume Mojave                  32.0 GB    disk1s1
+   2:                APFS Volume Preboot                 45.0 MB    disk1s2
+   3:                APFS Volume Recovery                517.0 MB   disk1s3
+   4:                APFS Volume VM                      20.5 KB    disk1s4
+
+Target volume /Volumes/Mojave on disk1 is APFS on physical store disk0s10
+======================================================
+Backing up EFI files
+
+Backing up /Volumes/Mojave/EFIROOTDIR/EFI folder to /Volumes/Mojave/EFI-Backups/r4934/2019-05-26-04h34/EFI
+======================================================
+Installing BootSectors/BootLoader
+
+Stage 0 - Don't write any of boot0af, boot0md, boot0ss to /
+Stage 1 - Don't write any of boot1h2, boot1f32alt, boot1xalt to /
+======================================================
+Installing RC Scripts
+
+Installing RC scripts on target volume '/'
+
+
+Theme 'Clovy' (defined in config.plist) not found !
+Using default theme 'random'
+======================================================
+=========== Clover EFI Installation Finish ===========
+======================================================
