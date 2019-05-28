@@ -3,17 +3,17 @@ This is my EFI file on my Dell 14 5447.
 
 ###  ###
 
-Originally, I have linux (Deepin) and Windows (10) on my machine booting with grub2.
+Originally, I have linux (Deepin) and windows (10) on my machine booting with grub2.
 
-Recently, I install hackintosh (Mojave 10.14.5) and add Clover to boot them three, although not perfectly, I've made several changes after forking Clover repo from [SinhLv](https://github.com/SinhLv/Dell-Ins-14-5447-hackintosh).
+Recently, I install hackintosh (Mojave 10.14.5) and add Clover to boot them three, although not perfectly, I've made several changes after forking Clover repo from [SinhLv](https://github.com/SinhLv/Dell-Ins-14-5447-hackintosh) which is marked by *.
 
 ##### Specs: #####
 
-CPU: Intel Core i5-4210U 1.7Ghz Turbo 2.7Ghz
-RAM: 8Gb DDR3L SDRAM
-VGA: HD4400 onboard and AMD R7 M265 (disabled)
-Audio: Realtek ALC255
-Wireless: Intel AC 3160 ngff (not work) + COMFASTCF-WU810N (USB) 
+* CPU: Intel Core i5-4210U 1.7Ghz Turbo 2.7Ghz
+* RAM: 8Gb DDR3L SDRAM
+* VGA: HD4400 onboard and AMD R7 M265 (disabled)
+* Audio: Realtek ALC255
+* Wireless: Intel AC 3160 ngff (not work) + COMFASTCF-WU810N (USB)*
 
 ##### Operating System: #####
  

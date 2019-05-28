@@ -785,18 +785,10 @@
 	<dict>
 		<key>#ProductName-MacBookAir</key>
 		<string>MacBookAir6,2</string>
-		<key>BiosReleaseDate</key>
-		<string>12/19/2018</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
-		<key>BiosVersion</key>
-		<string>MBP111.88Z.F000.B00.1812191214</string>
-		<key>Board-ID</key>
-		<string>Mac-189A3D4F975D5FFC</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
-		<key>BoardSerialNumber</key>
-		<string>C17434401GUFH318C</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -807,14 +799,8 @@
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
 		<string>0x0A</string>
-		<key>EfiVersion</key>
-		<string>150.0.0.0.0</string>
 		<key>Family</key>
 		<string>MacBook Pro</string>
-		<key>FirmwareFeatures</key>
-		<string>0xE80FE137</string>
-		<key>FirmwareFeaturesMask</key>
-		<string>0xFF1FFF3F</string>
 		<key>LocationInChassis</key>
 		<string>Part Component</string>
 		<key>Manufacturer</key>
@@ -825,10 +811,6 @@
 		<string>0x02</string>
 		<key>ProductName</key>
 		<string>MacBookPro11,1</string>
-		<key>SerialNumber</key>
-		<string>C17N8QY8FH00</string>
-		<key>SmUUID</key>
-		<string>99F06690-AFED-4D04-826B-E497684AC37C</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
